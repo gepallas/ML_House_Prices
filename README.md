@@ -11,13 +11,13 @@ I perform an exploratory data analysis (EDA) to identify correlations between Sa
 
 ## Results of EDA
 
-*Correlations between Sale Price and Numeric Features, for correlations above 0.5:*
+*Correlations between Sale Price and Numeric Features; zoom-in to correlations above 0.5:*
 
 <p align="center">
   <img src= "https://github.com/gepallas/ML_House_Prices/blob/master/images/CorrHeatmapHigh.png" />
 </p>
 
-**Bivariate Exploration**
+### Bivariate Exploration
 
 *Highly correlated Discrete Data with Sale Price:*
 
@@ -37,7 +37,7 @@ I perform an exploratory data analysis (EDA) to identify correlations between Sa
   <img src= "https://github.com/gepallas/ML_House_Prices/blob/master/images/Neighborhood-SalePrice.png" />
 </p>
 
-**Multivariate Exploration**
+### Multivariate Exploration
 
 *Neighborhood, Overall Quality, Sale Price:*
 
