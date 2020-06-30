@@ -11,7 +11,7 @@ I perform an exploratory data analysis (EDA) to identify correlations between Sa
 
 ## Results of EDA
 
-*Correlations between Sale Price and Numeric Features; zoom-in to correlations above 0.5:*
+*Correlations between Sale Price and Numeric Features; zoom-in to correlations higher than 0.5:*
 
 <p align="center">
   <img src= "https://github.com/gepallas/ML_House_Prices/blob/master/images/CorrHeatmapHigh.png" />
